@@ -1,0 +1,6 @@
+#pytesseract
+#tesseract
+tensorflow
+captcha
+matplotlib
+opencv-python

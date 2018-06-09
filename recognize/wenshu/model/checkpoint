@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/apps/recognize/wenshu/model/crack_capcha.model-1000000"
+all_model_checkpoint_paths: "/home/apps/recognize/wenshu/model/crack_capcha.model-1000000"
